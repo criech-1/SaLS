@@ -29,8 +29,8 @@ Here the installation instructions are described (it is recommended to install M
 
 Firstly, create a Python 3.8 environment::
     
-    conda create -n lsuo python=3.8
-    conda activate lsuo
+    conda create -n SaLS python=3.8
+    conda activate SaLS
 
 Make sure to have the correct version of cuda and install pytorch and torchvision in https://pytorch.org/get-started/locally.
 
