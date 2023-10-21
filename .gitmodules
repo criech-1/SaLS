@@ -1,0 +1,6 @@
+[submodule "Segment-and-Track-Anything"]
+	path = Segment-and-Track-Anything
+	url = https://github.com/criech-1/Segment-and-Track-Anything
+[submodule "dinov2"]
+	path = dinov2
+	url = https://github.com/facebookresearch/dinov2
