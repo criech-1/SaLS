@@ -49,6 +49,7 @@ Install the requirements of SAM-Track::
 
 Finally, download models automatically with::
     
+    cd ..
     bash script/download_models.sh
 
 .. _pyscaffold-notes:
